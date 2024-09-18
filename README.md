@@ -1,5 +1,18 @@
-When you code, you get this feeling that you are helping people. Through code you can create something that people interact with, use, touch and work with. When you manage to build something that solves problems, you know that you are making a difference in someone else's life. That is an amazing feeling.
+## Overview
 
+This is a simple, responsive personal portfolio website that showcases my skills, interests, and social media presence. The website is built using **HTML**, **CSS**, and **Bootstrap**. It includes sections such as a welcome message, skills, and testimonials.
 
+## Features
 
-I am and energetic, ambitious, highly motivated person who has developed a mature and responsible approach to any task that i undertake, or situation that i am presented with.I am quick learner and easy adapt ne, excellent in working with others to acieve a certain objevtive on time and with ecellence
+- **Title Section**: Contains an introduction and a welcoming message with an image.
+- **About Me Section**: Brief description of who I am and my background.
+- **Skills Section**: List of personal and technical skills, presented in a card format.
+- **Testimonial Section**: Personal introduction with a featured image and a quote about my goals.
+- **Social Media Links**: Icons and links to my Instagram, Facebook, LinkedIn, and Gmail.
+- **Footer**: A footer with links to various resources and sections.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Bootstrap 5
